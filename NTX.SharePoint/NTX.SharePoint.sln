@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTX.SharePoint", "NTX.SharePoint\NTX.SharePoint.csproj", "{EADD54EC-CEA1-46A8-98EA-36C4C1357A17}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{2E10CD1F-3B63-4447-A404-DD0F24850623}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTX.SharePoint.Tests", "NTX.SharePoint.Tests\NTX.SharePoint.Tests.csproj", "{A9EDF3E6-A54E-4E4E-9A9E-B7EC2AB370B9}"
 EndProject
